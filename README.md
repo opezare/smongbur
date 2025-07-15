@@ -1,0 +1,2 @@
+# smongbur
+ลองใช้งาน git
